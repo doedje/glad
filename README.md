@@ -9,7 +9,11 @@ I am currently looking into setting up a github repository which could cater suc
 
 Wanna join?
 -----------
-If you are interested in participating in any part of this project, let me know! Send me a message. Fork the project, send me pull requests... Let's start this community right now, right here!
+If you are interested in participating in any part of this project, let me know! Send me a message. Fork the project, send me pull requests... **Let's start this community right now, right here!**
+
+Best Regards,
+
+Remy Blom
 
 Links
 -----
